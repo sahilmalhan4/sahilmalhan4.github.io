@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Maj Sahil Malhan | Program & Operations Leader</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <style>
+    :root{
+      --navy:#0b1c2d;
+      --gold:#c9a24d;
+      --slate:#2b2f36;
+      --light:#f4f6f8;
+      --muted:#7a8594;
+      --white:#ffffff;
+    }
+
+    *{
+      box-sizing:border-box;
+      margin:0;
+      padding:0;
+      font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    }
+
+    body{
+      background:var(--light);
+      color:var(--slate);
+      line-height:1.65;
+    }
+
+    a{
+      color:var(--gold);
+      text-decoration:none;
+    }
+
+    header{
+      background:linear-gradient(135deg, var(--navy), #081421);
+      color:var(--white);
+      padding:70px 20px 55px;
+      text-align:center;
+    }
+
+    header img{
+      width:150px;
+      height:150px;
+      border-radius:50%;
+      border:4px solid var(--gold);
+      object-fit:cover;
+      margin-bottom:18px;
+    }
+
+    header h1{
+      font-size:2.4rem;
+      letter-spacing:.5px;
+      margin-bottom:8px;
+    }
+
+    header p{
+      font-size:1.05rem;
+      opacity:.92;
+      margin-bottom:6px;
+    }
+
+    .container{
+      max-width:1100px;
+      margin:auto;
+      padding:35px 22px 70px;
+    }
+
+    h2{
+      margin:48px 0 18px;
+      font-size:1.45rem;
+      color:var(--navy);
+      border-bottom:2px solid var(--gold);
+      display:inline-block;
+      padding-bottom:4px;
+    }
+
+    p{
+      margin-bottom:14px;
+    }
+
+    ul{
+      list-style:none;
+      margin-top:14px;
+    }
+
+    li{
+      margin-bottom:14px;
+    }
+
+    .two-col{
+      display:grid;
+      grid-template-columns:1fr 1fr;
+      gap:40px;
+      margin-top:12px;
+    }
+
+    @media(max-width:800px){
+      .two-col{grid-template-columns:1fr;}
+    }
+
+    footer{
+      text-align:center;
+      padding:40px 15px;
+      font-size:.8rem;
+      color:var(--muted);
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <img src="sahilmalhan.jpg" alt="Maj Sahil Malhan">
+  <h1>Maj Sahil Malhan</h1>
+  <p>AI Optimization Specialist · Program & Operations Leader</p>
+  <p>India</p>
+  <p>
+    +91 8427037951 ·
+    <a href="mailto:sahilmalhan4@gmail.com">sahilmalhan4@gmail.com</a>
+  </p>
+</header>
+
+<div class="container">
+
+  <h2>Professional Summary</h2>
+  <p>
+    Senior operations and program leader with 15+ years of experience optimizing complex, high-risk systems across defense,
+    logistics, and large multi-stakeholder environments.
+  </p>
+
+  <p>
+    Proven record of reducing operational friction, standardizing workflows, improving delivery reliability, and enabling
+    teams to operate at scale under pressure.
+  </p>
+
+  <p>
+    Brings deep execution rigor, documentation discipline, and leadership credibility to AI-driven workflow optimization
+    and enterprise transformation roles.
+  </p>
+
+  <h2>Work Experience</h2>
+
+  <p><strong>Independent Operations & Program Consultant</strong><br>
+  2020 – Present</p>
+
+  <p>
+    Engagements with national sports bodies, public institutions, and large enterprises
+  </p>
+
+  <ul>
+    <li>Led end-to-end execution of complex, multi-agency operations involving logistics, security, vendors, and government stakeholders</li>
+    <li>Redesigned workflows to reduce manual coordination, eliminate duplication, and improve turnaround times across planning and execution cycles</li>
+    <li>Implemented structured project governance using action trackers, milestone plans, and escalation paths, improving delivery predictability and accountability</li>
+    <li>Produced detailed operational documentation, risk mitigation plans, and contingency frameworks used across repeated deployments</li>
+    <li>Enabled teams to operate with reduced cognitive load through standardized processes, clear ownership, and decision frameworks</li>
+    <li>Reduced operational delays through process standardization and tighter execution cadence</li>
+    <li>Improved coordination efficiency across distributed teams and external agencies</li>
+    <li>Delivered multiple high-visibility programs with zero tolerance for failure</li>
+  </ul>
+
+  <p><strong>Indian Army</strong><br>
+  Major, Army Service Corps<br>
+  2005 – 2019</p>
+
+  <ul>
+    <li>Commanded and optimized large-scale logistics and operations spanning supply chains, fleet management, inventory control, security, and facilities</li>
+    <li>Planned and executed operations involving high-value assets and geographically distributed units under extreme constraints</li>
+    <li>Designed SOPs, task breakdown structures, and monitoring systems to reduce human error and operational fatigue</li>
+    <li>Led and developed teams of 600+ personnel, enforcing discipline, clarity of roles, and execution standards</li>
+    <li>Conducted risk assessments, contingency planning, and post-operation reviews to drive continuous improvement</li>
+    <li>Managed logistics and assets valued at ₹280+ crore with zero loss and audit integrity</li>
+    <li>Optimized inventory and supply processes across multiple regions, improving availability and reducing waste</li>
+    <li>Delivered sustained operations in high-risk environments with consistent performance under pressure</li>
+  </ul>
+
+  <h2>Projects</h2>
+
+  <p><strong>Workflow Optimization & Automation Initiative</strong><br>
+  Self-Directed</p>
+
+  <ul>
+    <li>Analyzed manual-heavy operational workflows to identify automation and AI-assist opportunities</li>
+    <li>Created end-to-end process maps, task breakdowns, and efficiency benchmarks</li>
+    <li>Designed human-in-the-loop operating models to reduce cognitive load while maintaining control and accountability</li>
+    <li>Defined success metrics including cycle-time reduction, error reduction, and workload redistribution</li>
+  </ul>
+
+  <p><strong>Program Governance & Delivery Framework</strong></p>
+
+  <ul>
+    <li>Built reusable project governance templates including Gantt charts, risk registers, escalation matrices, and status dashboards</li>
+    <li>Applied frameworks across multiple programs to standardize execution cadence and reporting</li>
+  </ul>
+
+  <h2>Certifications</h2>
+  <ul>
+    <li>Google Project Management Professional Certificate</li>
+    <li>Certified Associate in Project Management (CAPM) · PMI</li>
+    <li>Professional Scrum Master (PSM I) · Scrum.org</li>
+    <li>Jira Fundamentals and Administration Certification</li>
+  </ul>
+
+  <h2>Leadership & Volunteering</h2>
+  <ul>
+    <li>Led and mentored junior officers and operational teams across high-pressure environments</li>
+    <li>Conducted internal training on operational planning, documentation standards, and risk mitigation practices</li>
+    <li>Supported cross-unit coordination and capability-building initiatives during large-scale deployments</li>
+  </ul>
+
+  <h2>Awards & Honors</h2>
+  <ul>
+    <li>High Altitude Service Medal · Indian Army</li>
+    <li>Counter Insurgency and Counter Terrorism Medal</li>
+    <li>Long Service Medal · 9 Years</li>
+  </ul>
+
+  <h2>Education</h2>
+  <ul>
+    <li>Bachelor’s Degree in Computer Science · National Defence Academy, Pune</li>
+    <li>PG Diplomas in Supply Chain, Logistics & Defence Management · ASC Centre and College, Bangalore</li>
+  </ul>
+
+  <h2>Skills</h2>
+  <div class="two-col">
+    <ul>
+      <li>Agile, Scrum, Waterfall methodologies</li>
+      <li>End-to-end project planning and execution</li>
+      <li>Business process mapping and redesign</li>
+      <li>Automation opportunity assessment</li>
+      <li>AI-assisted workflow design</li>
+      <li>Risk registers and mitigation strategies</li>
+      <li>SOPs, runbooks, MoMs, action trackers</li>
+    </ul>
+    <ul>
+      <li>Jira, Confluence, Trello, Asana, Monday.com</li>
+      <li>Microsoft Project</li>
+      <li>Excel Advanced</li>
+      <li>Power BI</li>
+      <li>Executive communication</li>
+      <li>Cross-functional stakeholder management</li>
+      <li>Leadership under pressure</li>
+    </ul>
+  </div>
+
+</div>
+
+<footer>
+  © Maj Sahil Malhan · Program Execution · Operational Excellence · Scalable Systems
+</footer>
+
+</body>
+</html>
